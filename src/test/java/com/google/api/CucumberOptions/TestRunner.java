@@ -10,12 +10,9 @@ import io.cucumber.junit.CucumberOptions;
 		features = "src/test/java/com/google/api/features",
 		glue="com.google.api.steps",
 		//tags= "@GoogleDeletePlaceAPI",
-				plugin = {
-                        "pretty",
-                        "json:target/cucumber-report/cucumber.json",
-                        "html:target/cucumber-report/cucumber.html"})
+				plugin = {"json:target/jsonReports/cucumber.json"},
 
-	//	stepNotifications = true)
+		stepNotifications = true)
 
 public class TestRunner {
 

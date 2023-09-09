@@ -1,3 +1,0 @@
-GooglePlaceAPI - Build # 49 - Fixed:
-
-Check console output at http://localhost:8080/job/GooglePlaceAPI/49/ to view the results.
