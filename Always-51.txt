@@ -1,0 +1,3 @@
+GooglePlaceAPI - Build # 51 - Successful:
+
+Check console output at http://localhost:8080/job/GooglePlaceAPI/51/ to view the results.
